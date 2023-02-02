@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54605280.css",
+    "main.js": "/static/js/main.dc2a3891.js",
+    "static/js/787.252c5a3f.chunk.js": "/static/js/787.252c5a3f.chunk.js",
+    "static/media/webpage-screenshot.png": "/static/media/webpage-screenshot.f7f6834b6289861188ff.png",
+    "static/media/Julian-Schultheis Resume.pdf": "/static/media/Julian-Schultheis Resume.d169658bcd70cb1b31fe.pdf",
+    "static/media/recent-photo.jpg": "/static/media/recent-photo.32b22b60c7ae670ae274.jpg",
+    "index.html": "/index.html",
+    "main.54605280.css.map": "/static/css/main.54605280.css.map",
+    "main.dc2a3891.js.map": "/static/js/main.dc2a3891.js.map",
+    "787.252c5a3f.chunk.js.map": "/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54605280.css",
+    "static/js/main.dc2a3891.js"
+  ]
+}
