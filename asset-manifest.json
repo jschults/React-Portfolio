@@ -1,25 +1,18 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.54605280.css",
-    "main.js": "/React-Portfolio/static/js/main.cf0a64f0.js",
+    "main.js": "/React-Portfolio/static/js/main.24e31569.js",
     "static/js/787.252c5a3f.chunk.js": "/React-Portfolio/static/js/787.252c5a3f.chunk.js",
-    "static/media/flash-beats-image.gif": "/React-Portfolio/static/media/flash-beats-image.dcd02a7353abef6cb851.gif",
-    "static/media/living-real-image.png": "/React-Portfolio/static/media/living-real-image.97826efd83613a4add50.png",
     "static/media/webpage-screenshot.png": "/React-Portfolio/static/media/webpage-screenshot.f7f6834b6289861188ff.png",
     "static/media/Julian-Schultheis Resume.pdf": "/React-Portfolio/static/media/Julian-Schultheis Resume.d169658bcd70cb1b31fe.pdf",
-    "static/media/weather-dashboard-image.png": "/React-Portfolio/static/media/weather-dashboard-image.23797370ef5517d07799.png",
-    "static/media/budget-tracker-image.png": "/React-Portfolio/static/media/budget-tracker-image.58cb45d09439671728e0.png",
-    "static/media/auto-tracker-image.png": "/React-Portfolio/static/media/auto-tracker-image.b43f2f3cab833f6be953.png",
-    "static/media/password-generator-image.png": "/React-Portfolio/static/media/password-generator-image.989cc2dfb9156017c12d.png",
-    "static/media/note-taker-image.png": "/React-Portfolio/static/media/note-taker-image.704b6d82c169a0e5e3fa.png",
     "static/media/recent-photo.jpg": "/React-Portfolio/static/media/recent-photo.32b22b60c7ae670ae274.jpg",
     "index.html": "/React-Portfolio/index.html",
     "main.54605280.css.map": "/React-Portfolio/static/css/main.54605280.css.map",
-    "main.cf0a64f0.js.map": "/React-Portfolio/static/js/main.cf0a64f0.js.map",
+    "main.24e31569.js.map": "/React-Portfolio/static/js/main.24e31569.js.map",
     "787.252c5a3f.chunk.js.map": "/React-Portfolio/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54605280.css",
-    "static/js/main.cf0a64f0.js"
+    "static/js/main.24e31569.js"
   ]
 }
